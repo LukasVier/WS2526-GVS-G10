@@ -5,7 +5,7 @@
 |Group|10|
 
 ## Members:
-||||
+|Name|Kürzel|Matr.Nr|
 |-|-|-|
 |Lukas Vier|lvier|215997|
 
